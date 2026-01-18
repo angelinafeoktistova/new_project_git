@@ -6,3 +6,5 @@ NEbude tady popis projektu.
 Pokračujeme dál tady psát text
 
 To pišu na svém počítači
+
+Chci pull request
