@@ -1,2 +1,2 @@
 Tady je text. 
-Bude popis prijektu
+NEbude tady popis projektu.
